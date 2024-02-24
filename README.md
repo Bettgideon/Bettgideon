@@ -16,7 +16,8 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **kiprotichgideonbett@gmail.com**
--You can also reach me via WhatsApp at [+254790729721](https://wa.me/254790729721). Feel free to message me!
+-  You can also reach me via WhatsApp at [+254790729721](https://wa.me/254790729721). Feel free to message me!
+
 - 📄 Know about my experiences [https://bettgideon.github.io/-document-case-resume-portfolio/](https://bettgideon.github.io/-document-case-resume-portfolio/)
 
 - ⚡ Fun fact **The first computer programmer was Ada Lovelace, who wrote the first algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, in the mid-19th century.**
