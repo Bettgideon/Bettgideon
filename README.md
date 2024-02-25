@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gideon Kiprotich Bett</h1>
+
+
 <h2 align="center">A software engineer skilled in both frontend and backend development.
   I'm passionate about building innovative applications and solving real-world problems.
   My interests also extend to cybersecurity,
