@@ -41,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en" alt="bettgideon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bettgideon&" alt="bettgideon" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
