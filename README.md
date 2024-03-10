@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gideon  Bett  [Fullstack Developer]</h1>
 
 
-<h2 align="center">A software engineer skilled in both frontend and backend development.
+<h2 align="left">A software engineer skilled in both frontend and backend development.
   I'm passionate about building innovative applications and solving real-world problems.
   My interests also extend to cybersecurity,
   where I enjoy exploring ways to enhance the security of digital systems and networks.</h2>
