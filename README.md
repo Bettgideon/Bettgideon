@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences (https://bettgideon.github.io/Gideon-Bett-Portfolio/)
 
-- ⚡ Fun fact **The first computer programmer was Ada Lovelace, who wrote the first algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, in the mid-19th century.**
+- ⚡ Fun fact **Code is the canvas where imagination meets innovation, turning ideas into reality one keystroke at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
