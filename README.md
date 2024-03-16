@@ -13,7 +13,7 @@
 
 - Currently a Student **🔭Maseno University**
 
-- 👨‍💻 All of my projects are available at (https://bettgideon.github.io/Gideon-Bett-Portfolio/))
+- 👨‍💻 All of my projects are available at (https://bettgideon.github.io/Gideon-Bett-Portfolio/)
 
 - 💬 Ask me about **React**
 
