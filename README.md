@@ -13,14 +13,14 @@
 
 - Currently a Student **🔭Maseno University**
 
-- 👨‍💻 All of my projects are available at [https://bettgideon.github.io/-document-case-resume-portfolio/](https://bettgideon.github.io/-document-case-resume-portfolio/)
+- 👨‍💻 All of my projects are available at (https://bettgideon.github.io/Gideon-Bett-Portfolio/))
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **kiprotichgideonbett@gmail.com**
 -  You can also reach me via WhatsApp at [+254790729721](https://wa.me/254790729721). Feel free to message me!
 
-- 📄 Know about my experiences [https://bettgideon.github.io/-document-case-resume-portfolio/](https://bettgideon.github.io/-document-case-resume-portfolio/)
+- 📄 Know about my experiences (https://bettgideon.github.io/Gideon-Bett-Portfolio/)
 
 - ⚡ Fun fact **The first computer programmer was Ada Lovelace, who wrote the first algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, in the mid-19th century.**
 
