@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences (https://bettgideon.github.io/Gideon-Bett-Portfolio/)
 
-- ⚡ Fun fact:**Code is the canvas where imagination meets innovation, turning ideas into reality one keystroke at a time.**
+- ⚡ Fun fact: **Code is the canvas where imagination meets innovation, turning ideas into reality one keystroke at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
