@@ -13,14 +13,14 @@
 
 - Currently a Student **🔭Maseno University**
 
-- 👨‍💻 All of my projects are available at (https://bettgideon.github.io/Gideon-Bett-Portfolio/)
+- 👨‍💻 All of my projects are available at (https://bettgideon-github-io.vercel.app/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **kiprotichgideonbett@gmail.com**
 -  You can also reach me via WhatsApp at [+254790729721](https://wa.me/254790729721). Feel free to message me!
 
-- 📄 Know about my experiences (https://bettgideon.github.io/Gideon-Bett-Portfolio/)
+- 📄 Know about my experiences (https://bettgideon-github-io.vercel.app/)
 
 - ⚡ Fun fact: **Code is the canvas where imagination meets innovation, turning ideas into reality one keystroke at a time.**
 
