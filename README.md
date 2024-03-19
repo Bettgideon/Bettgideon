@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Gideon  Bett  [Fullstack Developer]</h1>
+<h1 align="center">Hi there 👋, I'm Gideon  Bett  (Fullstack Developer)</h1>
 
 
 <h2 align="left">A software engineer skilled in both frontend and backend development.
