@@ -1,10 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Gideon  Bett  (Fullstack Developer)</h1>
 
 
-<h2 align="left">A software engineer skilled in both frontend and backend development.
-  I'm passionate about building innovative applications and solving real-world problems.
-  My interests also extend to cybersecurity,
-  where I enjoy exploring ways to enhance the security of digital systems and networks.</h2>
+<h2 align="left">Proficient software engineer passionate about developing innovative applications and solving real-world problems.
+  Skilled in both frontend and backend development with a keen interest in cybersecurity.</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bettgideon&label=Profile%20views&color=0e75b6&style=flat" alt="bettgideon" /> </p>
