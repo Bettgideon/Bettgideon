@@ -17,7 +17,7 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **kiprotichgideonbett@gmail.com**
--  You can also reach me through : <a href="https://wa.me/254790729721?text=WhatsApp%20me">WhatsApp Me</a> Feel free to message me!
+-  You can also reach me through : <a href="https://wa.me/254790729721?text=WhatsApp%20me">WhatsApp </a> Feel free to message me!
 
 - 📄 Know about my experiences (https://bettgideon-github-io.vercel.app/)
 
