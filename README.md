@@ -12,7 +12,7 @@
 
 - Currently a Student **🔭Maseno University**
 
-- 👨‍💻 All of my projects are available at (https://bettgideon-github-io.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://github.com/Bettgideon)
 
 - 💬 Ask me about **React**
 
