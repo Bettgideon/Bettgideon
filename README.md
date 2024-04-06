@@ -4,6 +4,7 @@
   Skilled in both frontend and backend development with a keen interest in cybersecurity.</h2>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bettgideon&label=Profile%20views&color=0e75b6&style=flat" alt="bettgideon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@gidcomtechs90" target="blank"><img src="https://img.shields.io/twitter/follow/@gidcomtechs90?logo=twitter&style=for-the-badge" alt="@gidcomtechs90" /></a> </p>
