@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gidcomtechs90" target="blank"><img src="https://img.shields.io/twitter/follow/@gidcomtechs90?logo=twitter&style=for-the-badge" alt="@gidcomtechs90" /></a> </p>
 
-- Currently a graduate *BSc Information & Communication Technology Management* **🔭Maseno University**
+- Currently a graduate **BSc Information & Communication Technology Management** **🔭Maseno University**
 
 - 👨‍💻 All of my projects are available at (https://github.com/Bettgideon)
 
