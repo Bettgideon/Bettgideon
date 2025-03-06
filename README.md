@@ -71,8 +71,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bettgideon&" alt="GitHub Streak" /></p>
 
-<!-- Optional Trophy Section -->
-<!-- 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy) 
--->
+
 
