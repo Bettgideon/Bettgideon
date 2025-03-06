@@ -55,7 +55,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bettgideon&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=bettgideon&theme=default" alt="GitHub Streak" /></p>
+
 
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
