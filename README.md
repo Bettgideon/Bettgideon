@@ -56,10 +56,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=dark)](https://git.io/streak-stats)
 
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
