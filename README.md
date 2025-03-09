@@ -5,6 +5,7 @@
   Skilled in both frontend and backend development with a keen interest in cybersecurity.
 </h2>
 
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bettgideon&label=Profile%20views&color=0e75b6&style=flat" alt="bettgideon" />
 </p>
