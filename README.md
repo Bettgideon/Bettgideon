@@ -1,9 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Gideon Bett (Fullstack Developer)</h1>
+<h1 align="center">👋 Hi there, I'm Gideon Bett (Full-Stack Developer)</h1>
 
 <h2 align="left">
-  A proficient software engineer passionate about developing innovative applications and solving real-world problems.
-  Skilled in both frontend and backend development with a keen interest in cybersecurity.
+  A passionate software engineer dedicated to building innovative applications and solving real-world challenges.  
+  Skilled in both frontend and backend development, with a strong interest in cybersecurity.
 </h2>
+
 
 
 <p align="left">
