@@ -57,7 +57,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=dark)](https://git.io/streak-stats)
+## 🔥 GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bettgideon&theme=dark)
 
 ### 🏆 Trophies
 
