@@ -2,10 +2,8 @@
 
 <h2 align="left">
   A passionate software engineer dedicated to building innovative applications and solving real-world challenges.  
-  Skilled in both frontend and backend development, with a strong interest in cybersecurity.
+  Skilled in both frontend and backend development, with expertise in JavaScript, PHP, MySQL, and UI/UX design.
 </h2>
-
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bettgideon&label=Profile%20views&color=0e75b6&style=flat" alt="bettgideon" />
@@ -21,8 +19,8 @@
 - **BSc Information & Communication Technology Management** – **Maseno University** 🎓  
 
 ### 🚀 Projects & Skills
-- 👨‍💻 All of my projects are available at **[GitHub Portfolio](https://github.com/Bettgideon)**
-- 💬 Ask me about **React, PHP, MySQL, JavaScript**
+- 👨‍💻 Featured Projects: **Portfolio Website, Hotel Booking System, Maseno University Emergency Response System**
+- 💬 Ask me about **HTML, JavaScript, UI/UX, PHP**
 - 📄 Check out my **portfolio**: **[bettgideon-github-io.vercel.app](https://bettgideon-github-io.vercel.app/)**
 - ⚡ **Fun fact:** "Code is where **creativity meets logic**—turning ideas into reality, one keystroke at a time!"
 
@@ -53,14 +51,24 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bettgideon&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bettgideon&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
 
-## 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+---
 
+### 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
+</p>
 
-### 🏆 Trophies
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bettgideon&theme=darkhub" alt="GitHub Trophies"/>
+</p>
