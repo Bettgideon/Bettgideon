@@ -1,22 +1,26 @@
 <h1 align="center">👋 Hi there, I'm Gideon Bett (Full-Stack Developer)</h1>
 
 <h2 align="left">
-  A passionate software engineer dedicated to building innovative applications and solving real-world challenges.  
+  Passionate software engineer dedicated to building innovative applications and solving real-world challenges.  
   Skilled in both frontend and backend development, with expertise in JavaScript, PHP, MySQL, and UI/UX design.
 </h2>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bettgideon&label=Profile%20views&color=0e75b6&style=flat" alt="bettgideon" />
+  <img src="https://komarev.com/ghpvc/?username=bettgideon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/gidcomtechs90" target="blank">
+  <a href="https://twitter.com/gidcomtechs90" target="_blank">
     <img src="https://img.shields.io/twitter/follow/gidcomtechs90?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
+---
+
 ### 🎓 Education
 - **BSc Information & Communication Technology Management** – **Maseno University** 🎓  
+
+---
 
 ### 🚀 Projects & Skills
 - 👨‍💻 Featured Projects: **Portfolio Website, Hotel Booking System, Maseno University Emergency Response System**
@@ -24,18 +28,24 @@
 - 📄 Check out my **portfolio**: **[bettgideon-github-io.vercel.app](https://bettgideon-github-io.vercel.app/)**
 - ⚡ **Fun fact:** "Code is where **creativity meets logic**—turning ideas into reality, one keystroke at a time!"
 
+---
+
 ### 📞 Contact Me
 - 📧 Email: **kiprotichgideonbett@gmail.com**
 - 📱 WhatsApp: [Message Me](https://wa.me/254790729721?text=WhatsApp%20me)
 
+---
+
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/gidcomtechs90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/kiprotich-gideon-bett-b63478242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/gideon.bett.7967747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/gidcomtechnologies/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@G-ManTV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://twitter.com/gidcomtechs90" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kiprotich-gideon-bett-b63478242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/gideon.bett.7967747" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/gidcomtechnologies/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@G-ManTV" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
+
+---
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -52,18 +62,18 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bettgideon&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bettgideon&show_icons=true&locale=en&layout=compact&theme=darkblue" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en&theme=blueberry" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en&theme=darkblue" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=blueberry&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=darkblue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
 </p>
 
 ---
