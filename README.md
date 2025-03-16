@@ -62,23 +62,23 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bettgideon&show_icons=true&locale=en&layout=compact&theme=darkblue" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bettgideon&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en&theme=darkblue" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bettgideon&show_icons=true&locale=en&theme=blueberry" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=darkblue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=blueberry&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bettgideon&theme=darkblue" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bettgideon&theme=blueberry" alt="GitHub Trophies"/>
 </p>
