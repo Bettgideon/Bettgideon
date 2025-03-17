@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Gideon Bett (Full-Stack Developer)</h1>
 
+
 <h2 align="left">
   Passionate software engineer dedicated to building innovative applications and solving real-world challenges.  
   Skilled in both frontend and backend development, with expertise in JavaScript, PHP, MySQL, and UI/UX design.
