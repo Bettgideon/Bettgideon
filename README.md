@@ -23,7 +23,7 @@
 ---
 
 ### 🚀 Projects & Skills
-- 👨‍💻 Featured Projects: **Portfolio Website, Hotel Booking System, Maseno University Emergency Response System**
+- 👨‍💻 Featured Projects: **Portfolio Website, Hotel Booking System, Maseno University Emergency Response System , Kafarm Smart Agriculture**
 - 💬 Ask me about **HTML, JavaScript, UI/UX, PHP**
 - 📄 Check out my **portfolio**: **[bettgideon-github-io.vercel.app](https://bettgideon-github-io.vercel.app/)**
 - ⚡ **Fun fact:** "Code is where **creativity meets logic**—turning ideas into reality, one keystroke at a time!"
