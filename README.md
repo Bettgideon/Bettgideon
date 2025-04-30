@@ -14,19 +14,32 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> About Me
 
-```javascript
-const gideonBett = {
-  education: "BSc Information & Communication Technology Management @ Maseno University",
-  skills: ["JavaScript", "PHP", "React", "Node.js", "HTML5", "CSS3", "MySQL", "UI/UX Design"],
-  passions: ["Building innovative applications", "Solving real-world problems", "Creating user-friendly experiences"],
-  currentFocus: "Expanding skills in modern frameworks and cloud technologies",
-  funFact: "Code is where creativity meets logic—turning ideas into reality, one keystroke at a time!"
-};
-```
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=BSc+Information+%26+Communication+Technology;JavaScript+%7C+PHP+%7C+React+%7C+Node.js;Building+innovative+applications;Solving+real-world+problems;Creating+user-friendly+experiences" alt="About Me Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;BSc+Information+%26+Communication+Technology;JavaScript+%7C+PHP+%7C+React+%7C+Node.js" alt="About Me Typing SVG" />
 </div>
+
+<table>
+  <tr>
+    <td><strong>🎓 Education:</strong></td>
+    <td>BSc Information & Communication Technology Management @ Maseno University</td>
+  </tr>
+  <tr>
+    <td><strong>💻 Skills:</strong></td>
+    <td>JavaScript, PHP, React, Node.js, HTML5, CSS3, MySQL, UI/UX Design</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 Passions:</strong></td>
+    <td>Building innovative applications, Solving real-world problems, Creating user-friendly experiences</td>
+  </tr>
+  <tr>
+    <td><strong>🔍 Current Focus:</strong></td>
+    <td>Expanding skills in modern frameworks and cloud technologies</td>
+  </tr>
+  <tr>
+    <td><strong>⚡ Fun Fact:</strong></td>
+    <td><i>"Code is where creativity meets logic—turning ideas into reality, one keystroke at a time!"</i></td>
+  </tr>
+</table>
 
 <br>
 
