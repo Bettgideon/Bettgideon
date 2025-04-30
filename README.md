@@ -89,6 +89,11 @@ I'm a passionate software engineer dedicated to building innovative applications
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bettgideon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+### ⚡ Activity Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bettgideon&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
+</div>
+
 <br />
 
 ## 🏆 GitHub Trophies
