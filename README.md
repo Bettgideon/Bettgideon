@@ -1,11 +1,17 @@
-
 ## 🚀 Support My Projects
 
 Building digital solutions from Kenya 🇰🇪
 
+If you find my work helpful or want to support my journey as a developer, you can buy me a coffee ☕:
+
 <a href="https://www.paypal.com/donate/?hosted_button_id=AJJ6Q69QPU6WA" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-PayPal-blue?style=for-the-badge&logo=paypal">
 </a>
+
+---
+
+💡 I appreciate every bit of support—it helps me keep building, learning, and sharing more open-source projects and tools for the community.
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Gideon%20Bett&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Innovator&descAlignY=58&descAlign=50" width="100%" />
