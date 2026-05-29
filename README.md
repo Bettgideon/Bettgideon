@@ -1,17 +1,101 @@
-## ☕ Support My Work
+<!-- Support Section with Animations & Colors -->
+<table width="100%" align="center">
+  <tr>
+    <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px;">
+      
+      <!-- Animated Coffee Emoji -->
+      <div align="center">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="50" style="animation: bounce 1s infinite;">
+      </div>
+      
+      <h2 align="center" style="color: #ffd700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 10px 0;">
+        ✨ Support My Work ✨
+      </h2>
+      
+      <p align="center" style="color: #e0e0e0; font-size: 18px; max-width: 500px; margin: 15px auto;">
+        Building digital solutions from <strong style="color: #ff6b6b;">Kenya 🇰🇪</strong>
+      </p>
+      
+      <p align="center" style="color: #b8b8b8; font-size: 16px; max-width: 600px; margin: 15px auto;">
+        Every contribution — big or small — helps me spend more time building, learning,<br>
+        and sharing open-source tools for developers worldwide.
+      </p>
+      
+      <!-- Animated Button with Gradient & Glow -->
+      <div align="center" style="margin: 30px 0;">
+        <a href="https://www.paypal.com/donate/?hosted_button_id=AJJ6Q69QPU6WA" target="_blank" style="text-decoration: none;">
+          <div style="
+            background: linear-gradient(90deg, #ff6b6b, #ff8e53, #ff6b6b);
+            background-size: 200% auto;
+            color: white;
+            padding: 14px 40px;
+            border-radius: 50px;
+            font-size: 20px;
+            font-weight: bold;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: inline-block;
+            box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);
+            transition: all 0.3s ease;
+            animation: shimmer 2s linear infinite, pulse 1.5s ease-in-out infinite;
+            cursor: pointer;
+          "
+          onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 30px rgba(255,107,107,0.8)';"
+          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(255,107,107,0.5)';">
+            ☕ Buy Me a Coffee
+          </div>
+        </a>
+      </div>
+      
+      <!-- Alternative Options -->
+      <div align="center" style="margin: 25px 0;">
+        <span style="color: #aaa; font-size: 14px;">or</span>
+      </div>
+      
+      <div align="center">
+        <a href="https://github.com/sponsors/YOUR_USERNAME" target="_blank" style="text-decoration: none;">
+          <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #ffd700; margin: 0 10px; font-size: 14px; transition: all 0.3s; display: inline-block;" onmouseover="this.style.background='rgba(255,215,0,0.2)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)';">
+            ⭐ Sponsor on GitHub
+          </span>
+        </a>
+        
+        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #ff8e53; margin: 0 10px; font-size: 14px; display: inline-block;">
+          🎁 Star my repos
+        </span>
+        
+        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #4ecdc4; margin: 0 10px; font-size: 14px; display: inline-block;">
+          🤝 Share with friends
+        </span>
+      </div>
+      
+      <!-- Thank You Message -->
+      <div align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1);">
+        <p style="color: #4ecdc4; font-size: 14px;">
+          💙 <em>From Kenya with gratitude — every supporter fuels the next innovation</em> 💙
+        </p>
+      </div>
+      
+    </td>
+  </tr>
+</table>
 
-Building impactful digital solutions from Kenya 🇰🇪 — one line of code at a time.
-
-If you enjoy my projects or find them useful, consider fueling my creativity and caffeine intake.  
-Your support helps me dedicate more time to open source, learn new things, and share back with the developer community.
-
-[![Donate with PayPal](https://img.shields.io/badge/Support_my_work-PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=AJJ6Q69QPU6WA)
-
-> Every coffee ☕ counts. Even a kind word or a star on a repo means the world to me.
-
----
-
-✨ *Thank you for being part of this journey — from Kenya to the world.*
+<!-- CSS Animations -->
+<style>
+  @keyframes shimmer {
+    0% { background-position: 0% 0; }
+    100% { background-position: 200% 0; }
+  }
+  
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.02); }
+    100% { transform: scale(1); }
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+</style>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Gideon%20Bett&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Innovator&descAlignY=58&descAlign=50" width="100%" />
