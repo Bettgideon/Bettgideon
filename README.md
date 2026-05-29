@@ -22,23 +22,23 @@
   <tr>
     <td><strong>🎓 Education:</strong></td>
     <td>BSc Information & Communication Technology Management @ Maseno University</td>
-   </tr>
+  </tr>
   <tr>
     <td><strong>💻 Skills:</strong></td>
     <td>JavaScript, PHP, React, Node.js, HTML5, CSS3, MySQL, UI/UX Design</td>
-   </tr>
+  </tr>
   <tr>
     <td><strong>🚀 Passions:</strong></td>
     <td>Building innovative applications, Solving real-world problems, Creating user-friendly experiences</td>
-   </tr>
+  </tr>
   <tr>
     <td><strong>🔍 Current Focus:</strong></td>
     <td>Expanding skills in modern frameworks and cloud technologies</td>
-   </tr>
+  </tr>
   <tr>
     <td><strong>⚡ Fun Fact:</strong></td>
     <td><i>"Code is where creativity meets logic—turning ideas into reality, one keystroke at a time!"</i></td>
-   </tr>
+  </tr>
 </table>
 
 <br>
@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
-   </tr>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Maseno University Emergency Response System</h3>
@@ -105,7 +105,7 @@
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
     </td>
-   </tr>
+  </tr>
 </table>
 
 <br>
@@ -139,82 +139,56 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bettgideon&theme=discord&column=6&no-frame=true&margin-w=15" />
 </div>
 
-<!-- SUPPORT SECTION - UPGRADED WITH COLORS & HOVER EFFECTS -->
+<!-- ========== SUPPORT SECTION - SIMPLE & WORKING ========== -->
 ## ☕ Support My Work
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px;">
-      
-      <div align="center">
-        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="60">
-      </div>
-      
-      <h2 align="center" style="color: #ffd700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 10px 0;">
-        ✨ Support My Work ✨
-      </h2>
-      
-      <p align="center" style="color: #e0e0e0; font-size: 18px; max-width: 500px; margin: 15px auto;">
-        Building digital solutions from <strong style="color: #ff6b6b;">Kenya 🇰🇪</strong>
-      </p>
-      
-      <p align="center" style="color: #b8b8b8; font-size: 16px; max-width: 600px; margin: 15px auto;">
-        Every contribution — big or small — helps me spend more time building, learning,<br>
-        and sharing open-source tools for developers worldwide.
-      </p>
-      
-      <div align="center" style="margin: 30px 0;">
-        <a href="https://www.paypal.com/donate/?hosted_button_id=AJJ6Q69QPU6WA" target="_blank" style="text-decoration: none;">
-          <span style="
-            background: linear-gradient(90deg, #ff6b6b, #ff8e53);
-            color: white;
-            padding: 14px 40px;
-            border-radius: 50px;
-            font-size: 20px;
-            font-weight: bold;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            display: inline-block;
-            box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
-            transition: all 0.3s ease;
-            cursor: pointer;
-          "
-          onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(255,107,107,0.6)'; this.style.background='linear-gradient(90deg, #ff8e53, #ff6b6b)';"
-          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(255,107,107,0.4)'; this.style.background='linear-gradient(90deg, #ff6b6b, #ff8e53)';">
-            ☕ Buy Me a Coffee
-          </span>
-        </a>
-      </div>
-      
-      <div align="center" style="margin: 25px 0;">
-        <span style="color: #aaa; font-size: 14px;">✨ Other ways to support ✨</span>
-      </div>
-      
-      <div align="center">
-        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #ffd700; margin: 0 10px; font-size: 14px; transition: all 0.3s; display: inline-block; cursor: pointer;" onmouseover="this.style.background='rgba(255,215,0,0.3)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)';">
-          ⭐ Star my repositories
-        </span>
-        
-        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #ff8e53; margin: 0 10px; font-size: 14px; transition: all 0.3s; display: inline-block; cursor: pointer;" onmouseover="this.style.background='rgba(255,142,83,0.2)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)';">
-          🔁 Share with your network
-        </span>
-        
-        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #4ecdc4; margin: 0 10px; font-size: 14px; transition: all 0.3s; display: inline-block; cursor: pointer;" onmouseover="this.style.background='rgba(78,205,196,0.2)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)';">
-          💬 Leave feedback or ideas
-        </span>
-      </div>
-      
-      <div align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1);">
-        <p style="color: #4ecdc4; font-size: 15px;">
-          💙 <em>From Kenya with gratitude — every supporter fuels the next innovation</em> 💙
-        </p>
-        <p style="color: #888; font-size: 12px; margin-top: 10px;">
-          ⚡ Even a kind word on Twitter or LinkedIn makes my day ⚡
-        </p>
-      </div>
-      
-    </td>
-   </tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="80">
+</div>
+
+<div align="center">
+  <h3>Building digital solutions from <span style="color:#ff6b6b;">Kenya 🇰🇪</span></h3>
+  <p>Every contribution helps me build, learn, and share more open-source tools.</p>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=AJJ6Q69QPU6WA" target="_blank">
+    <img src="https://img.shields.io/badge/💰_Donate_via_PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/sponsors/bettgideon" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_Sponsor_on_GitHub-ea4aaa?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-ff5e5e?style=for-the-badge&logo=kofi&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">⭐</td>
+      <td>Star my repositories</td>
+      <td align="center">🔁</td>
+      <td>Share my work</td>
+      <td align="center">💬</td>
+      <td>Leave feedback</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=800&color=FF8E53&center=true&vCenter=true&width=400&lines=From+Kenya+with+gratitude+%F0%9F%92%99;Your+support+fuels+the+next+innovation+☕" alt="Thank you message" />
+</div>
+
+<!-- ========== END SUPPORT SECTION ========== -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" width="100%" />
