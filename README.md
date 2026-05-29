@@ -1,102 +1,3 @@
-<!-- Support Section with Animations & Colors -->
-<table width="100%" align="center">
-  <tr>
-    <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px;">
-      
-      <!-- Animated Coffee Emoji -->
-      <div align="center">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="50" style="animation: bounce 1s infinite;">
-      </div>
-      
-      <h2 align="center" style="color: #ffd700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 10px 0;">
-        ✨ Support My Work ✨
-      </h2>
-      
-      <p align="center" style="color: #e0e0e0; font-size: 18px; max-width: 500px; margin: 15px auto;">
-        Building digital solutions from <strong style="color: #ff6b6b;">Kenya 🇰🇪</strong>
-      </p>
-      
-      <p align="center" style="color: #b8b8b8; font-size: 16px; max-width: 600px; margin: 15px auto;">
-        Every contribution — big or small — helps me spend more time building, learning,<br>
-        and sharing open-source tools for developers worldwide.
-      </p>
-      
-      <!-- Animated Button with Gradient & Glow -->
-      <div align="center" style="margin: 30px 0;">
-        <a href="https://www.paypal.com/donate/?hosted_button_id=AJJ6Q69QPU6WA" target="_blank" style="text-decoration: none;">
-          <div style="
-            background: linear-gradient(90deg, #ff6b6b, #ff8e53, #ff6b6b);
-            background-size: 200% auto;
-            color: white;
-            padding: 14px 40px;
-            border-radius: 50px;
-            font-size: 20px;
-            font-weight: bold;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            display: inline-block;
-            box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);
-            transition: all 0.3s ease;
-            animation: shimmer 2s linear infinite, pulse 1.5s ease-in-out infinite;
-            cursor: pointer;
-          "
-          onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 30px rgba(255,107,107,0.8)';"
-          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px rgba(255,107,107,0.5)';">
-            ☕ Buy Me a Coffee
-          </div>
-        </a>
-      </div>
-      
-      <!-- Alternative Options -->
-      <div align="center" style="margin: 25px 0;">
-        <span style="color: #aaa; font-size: 14px;">or</span>
-      </div>
-      
-      <div align="center">
-        <a href="https://github.com/sponsors/YOUR_USERNAME" target="_blank" style="text-decoration: none;">
-          <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #ffd700; margin: 0 10px; font-size: 14px; transition: all 0.3s; display: inline-block;" onmouseover="this.style.background='rgba(255,215,0,0.2)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)';">
-            ⭐ Sponsor on GitHub
-          </span>
-        </a>
-        
-        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #ff8e53; margin: 0 10px; font-size: 14px; display: inline-block;">
-          🎁 Star my repos
-        </span>
-        
-        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #4ecdc4; margin: 0 10px; font-size: 14px; display: inline-block;">
-          🤝 Share with friends
-        </span>
-      </div>
-      
-      <!-- Thank You Message -->
-      <div align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1);">
-        <p style="color: #4ecdc4; font-size: 14px;">
-          💙 <em>From Kenya with gratitude — every supporter fuels the next innovation</em> 💙
-        </p>
-      </div>
-      
-    </td>
-  </tr>
-</table>
-
-<!-- CSS Animations -->
-<style>
-  @keyframes shimmer {
-    0% { background-position: 0% 0; }
-    100% { background-position: 200% 0; }
-  }
-  
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.02); }
-    100% { transform: scale(1); }
-  }
-  
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-8px); }
-  }
-</style>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Gideon%20Bett&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Innovator&descAlignY=58&descAlign=50" width="100%" />
 </div>
@@ -121,23 +22,23 @@
   <tr>
     <td><strong>🎓 Education:</strong></td>
     <td>BSc Information & Communication Technology Management @ Maseno University</td>
-  </tr>
+   </tr>
   <tr>
     <td><strong>💻 Skills:</strong></td>
     <td>JavaScript, PHP, React, Node.js, HTML5, CSS3, MySQL, UI/UX Design</td>
-  </tr>
+   </tr>
   <tr>
     <td><strong>🚀 Passions:</strong></td>
     <td>Building innovative applications, Solving real-world problems, Creating user-friendly experiences</td>
-  </tr>
+   </tr>
   <tr>
     <td><strong>🔍 Current Focus:</strong></td>
     <td>Expanding skills in modern frameworks and cloud technologies</td>
-  </tr>
+   </tr>
   <tr>
     <td><strong>⚡ Fun Fact:</strong></td>
     <td><i>"Code is where creativity meets logic—turning ideas into reality, one keystroke at a time!"</i></td>
-  </tr>
+   </tr>
 </table>
 
 <br>
@@ -145,7 +46,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Featured Projects
 
 <table border="0" align="center">
- <tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Portfolio Website</h3>
       <p align="center">
@@ -174,7 +75,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
-  </tr>
+   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Maseno University Emergency Response System</h3>
@@ -204,7 +105,7 @@
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
     </td>
-  </tr>
+   </tr>
 </table>
 
 <br>
@@ -237,6 +138,83 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bettgideon&theme=discord&column=6&no-frame=true&margin-w=15" />
 </div>
+
+<!-- SUPPORT SECTION - UPGRADED WITH COLORS & HOVER EFFECTS -->
+## ☕ Support My Work
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px;">
+      
+      <div align="center">
+        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="60">
+      </div>
+      
+      <h2 align="center" style="color: #ffd700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 10px 0;">
+        ✨ Support My Work ✨
+      </h2>
+      
+      <p align="center" style="color: #e0e0e0; font-size: 18px; max-width: 500px; margin: 15px auto;">
+        Building digital solutions from <strong style="color: #ff6b6b;">Kenya 🇰🇪</strong>
+      </p>
+      
+      <p align="center" style="color: #b8b8b8; font-size: 16px; max-width: 600px; margin: 15px auto;">
+        Every contribution — big or small — helps me spend more time building, learning,<br>
+        and sharing open-source tools for developers worldwide.
+      </p>
+      
+      <div align="center" style="margin: 30px 0;">
+        <a href="https://www.paypal.com/donate/?hosted_button_id=AJJ6Q69QPU6WA" target="_blank" style="text-decoration: none;">
+          <span style="
+            background: linear-gradient(90deg, #ff6b6b, #ff8e53);
+            color: white;
+            padding: 14px 40px;
+            border-radius: 50px;
+            font-size: 20px;
+            font-weight: bold;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: inline-block;
+            box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+            transition: all 0.3s ease;
+            cursor: pointer;
+          "
+          onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(255,107,107,0.6)'; this.style.background='linear-gradient(90deg, #ff8e53, #ff6b6b)';"
+          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(255,107,107,0.4)'; this.style.background='linear-gradient(90deg, #ff6b6b, #ff8e53)';">
+            ☕ Buy Me a Coffee
+          </span>
+        </a>
+      </div>
+      
+      <div align="center" style="margin: 25px 0;">
+        <span style="color: #aaa; font-size: 14px;">✨ Other ways to support ✨</span>
+      </div>
+      
+      <div align="center">
+        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #ffd700; margin: 0 10px; font-size: 14px; transition: all 0.3s; display: inline-block; cursor: pointer;" onmouseover="this.style.background='rgba(255,215,0,0.3)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)';">
+          ⭐ Star my repositories
+        </span>
+        
+        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #ff8e53; margin: 0 10px; font-size: 14px; transition: all 0.3s; display: inline-block; cursor: pointer;" onmouseover="this.style.background='rgba(255,142,83,0.2)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)';">
+          🔁 Share with your network
+        </span>
+        
+        <span style="background: rgba(255,255,255,0.1); padding: 8px 20px; border-radius: 30px; color: #4ecdc4; margin: 0 10px; font-size: 14px; transition: all 0.3s; display: inline-block; cursor: pointer;" onmouseover="this.style.background='rgba(78,205,196,0.2)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.background='rgba(255,255,255,0.1)'; this.style.transform='translateY(0)';">
+          💬 Leave feedback or ideas
+        </span>
+      </div>
+      
+      <div align="center" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1);">
+        <p style="color: #4ecdc4; font-size: 15px;">
+          💙 <em>From Kenya with gratitude — every supporter fuels the next innovation</em> 💙
+        </p>
+        <p style="color: #888; font-size: 12px; margin-top: 10px;">
+          ⚡ Even a kind word on Twitter or LinkedIn makes my day ⚡
+        </p>
+      </div>
+      
+    </td>
+   </tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" width="100%" />
