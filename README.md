@@ -162,7 +162,7 @@
     <img src="https://img.shields.io/badge/⭐_Sponsor_on_GitHub-ea4aaa?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
+  <a href="https://ko-fi.com/gideon89347" target="_blank">Buy me a coffee on Ko-fi ☕</a>
     <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-ff5e5e?style=for-the-badge&logo=kofi&logoColor=white" />
   </a>
 </div>
