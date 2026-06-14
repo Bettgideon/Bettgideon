@@ -214,5 +214,5 @@
 </div>
 
 <div align="center">
-  <h3>💬 Let's connect and build amazing things together! 💬</h3>
+  <h3>💬 Let's connect and build amazing things together! 📥📥💬</h3>
 </div>
