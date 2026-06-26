@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Gideon%20Bett&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Innovator&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
+
 <div align="center">
   <a href="https://bettgideon-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="mailto:kiprotichgideonbett@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
