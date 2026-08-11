@@ -2,22 +2,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Gideon%20Bett&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20IT%20Support%20Specialist%20%7C%20React%20%E2%80%A2%20PHP%20%E2%80%A2%20MySQL%20%E2%80%A2%20Power%20BI&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
-
-
 <div align="center">
-  <a href="https://bettgideon-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="mailto:kiprotichgideonbett@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/254790729721"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://twitter.com/gidcomtechs90"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kiprotich-gideon-bett-b63478242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
+  <a href="https://bettgideon-github-io.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="mailto:kiprotichgideonbett@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/254790729721">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/gidcomtechs90">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kiprotich-gideon-bett-b63478242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <img src="https://komarev.com/ghpvc/?username=bettgideon&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;BSc+Information+%26+Communication+Technology;JavaScript+%7C+PHP+%7C+React+%7C+Node.js" alt="About Me Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=ICT+Graduate;Full-Stack+Developer;IT+Support+Specialist;Data+Analytics+%26+Power+BI;React+%7C+PHP+%7C+MySQL+%7C+Power+BI" alt="About Me Typing SVG" />
 </div>
 
 <table>
@@ -26,20 +34,32 @@
     <td>BSc Information & Communication Technology Management @ Maseno University</td>
   </tr>
   <tr>
-    <td><strong>💻 Skills:</strong></td>
-    <td>JavaScript, PHP, React, Node.js, HTML5, CSS3, MySQL, UI/UX Design</td>
+    <td><strong>💻 Full-Stack Development:</strong></td>
+    <td>JavaScript, PHP, React, Node.js, Laravel, HTML5, CSS3, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ IT Support:</strong></td>
+    <td>Hardware & Software Troubleshooting, System Configuration, LAN Support, Printer Maintenance, User Support</td>
+  </tr>
+  <tr>
+    <td><strong>📊 Data & Analytics:</strong></td>
+    <td>Power BI, SQL, Excel, R, Stata, Data Visualization & Reporting</td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Design & UI/UX:</strong></td>
+    <td>UI/UX Design, Responsive Web Design, Photoshop, Bootstrap</td>
   </tr>
   <tr>
     <td><strong>🚀 Passions:</strong></td>
-    <td>Building innovative applications, Solving real-world problems, Creating user-friendly experiences</td>
+    <td>Building innovative digital solutions, solving real-world problems, supporting technology users, and turning data into actionable insights</td>
   </tr>
   <tr>
     <td><strong>🔍 Current Focus:</strong></td>
-    <td>Expanding skills in modern frameworks and cloud technologies</td>
+    <td>Full-Stack Development, IT Support, Data Analytics, Power BI, Cloud Technologies & Cybersecurity</td>
   </tr>
   <tr>
     <td><strong>⚡ Fun Fact:</strong></td>
-    <td><i>"Code is where creativity meets logic—turning ideas into reality, one keystroke at a time!"</i></td>
+    <td><i>"Technology is where creativity meets logic—building solutions, solving problems, and turning ideas into reality."</i></td>
   </tr>
 </table>
 
